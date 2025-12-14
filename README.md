@@ -3,11 +3,10 @@
 API REST de **gerenciamento de tarefas (ToDo)** desenvolvida em **Java com Spring Boot**, implementando um CRUD completo com **Service, Repository e Entity**, além de documentação com **Swagger/OpenAPI**.
 
 ---
-
 ## Tecnologias utilizadas
 
 - Java  
-- Spring Boot  
+- Spring Boot
 - Spring Web  
 - Spring Data JPA  
 - Hibernate  
@@ -94,6 +93,9 @@ Após iniciar a aplicação, acesse:
 ```
 http://localhost:8080/swagger-ui/index.html
 ```
+Interface do Swagger:
+
+<img width="1437" height="653" alt="SwaggerToDo" src="https://github.com/user-attachments/assets/bdde3c2e-0955-44f3-8d86-aadf6e646a08" />
 
 ---
 
